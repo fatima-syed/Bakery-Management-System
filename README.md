@@ -19,6 +19,7 @@ A completely computerized bakery management software that comes with an online o
 It is an automated and efficient website that will be used to manage the day-to-day activities in a bakery and provide an online ordering facility.
 It streamlines the functioning of a production center handling multifarious bakery chains. It will allow efficient management of:
 •	Categorizing and sub-categorizing bakery goods based on categories.
+
 •	Maintaining a record of sales and purchases for efficient data storage and retrieval
 •	Keeping record of all bakery customer via Login and Registration feature.
 •	Allowing customers to order items online
