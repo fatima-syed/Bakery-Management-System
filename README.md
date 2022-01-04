@@ -11,7 +11,7 @@ A completely computerized bakery management software that comes with an online o
 
 # **Group members**
   1) **Syeda Fatima Shahid**
-  2) **SHafsa Malik**
+  2) **Hafsa Malik**
   3) **Khubaib Ahmed Qureshy**
 
 
