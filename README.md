@@ -31,7 +31,7 @@ It streamlines the functioning of a production center handling multifarious bake
 # **System Requirements**
 1. Install XAMPP v3.3.0 to provide a local test server for testing and verifying website.
 2. Start Apache and MySQL modules.
-3. Click on Admin button in front of MySQL module to open PHPMYADMIN.
+3. Click on Admin button in front of MySQL module to open phpMyAdmin.
 4. Go to home page and use import button to import uploaded database (.sql file).
 5. Go to C:\xampp\htdocs and paste bms folder here.
 6. Open bms folder in Visual Studio Code and type localhost/home.html to get the website working.
