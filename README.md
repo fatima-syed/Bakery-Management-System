@@ -3,7 +3,7 @@
 A completely computerized bakery management software that comes with an online ordering facility
 
 
-**---------------------------------------------------------------------PROJECT-----------------------------------------------------------------------**
+**---------------------------------------------------------------PROJECT------------------------------------------------------------------**
 
 
 # **Project Title: Ambience Bakery Management System**
